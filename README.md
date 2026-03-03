@@ -54,6 +54,6 @@
 <h2 align="left">💬 Let's Connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khadija%20Khouili-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail Badge](https://img.shields.io/badge/-YourEmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:khadijakhouili40@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:khadijakhouili40@gmail.com)
 
 ⭐ From Khadija Khouili
